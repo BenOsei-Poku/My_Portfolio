@@ -1,4 +1,3 @@
- 
 # [**Customer Segmentation: Project Overview**](https://github.com/BenOsei-Poku/Ecommerce)
  
 - Performed analysis of customers of a UK business to understand customer behaviour and generate insights for better target marketing.
