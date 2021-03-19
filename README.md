@@ -8,4 +8,4 @@ My learning journey
 - Created customer clusters based on customer spending habits and how much they spend.
 - Optimized Naive Bayes, Logistic regression, Support Vector Classifier and XGBoost to reach the best model.
 
-![](https://github.com/BenOsei-Poku/My_Portfolio/blob/main/images/Ecommerce.png)
+![](/images/Ecommerce.png)
