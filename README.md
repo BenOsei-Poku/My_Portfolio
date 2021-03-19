@@ -1,5 +1,3 @@
-# My Portfolio
-My learning journey
  
 # [**Customer Segmentation: Project Overview**](https://github.com/BenOsei-Poku/Ecommerce)
  
